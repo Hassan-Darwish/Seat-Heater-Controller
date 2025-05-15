@@ -22,12 +22,12 @@ The system includes the following tasks:
 ## Example Output
 The system provides real-time feedback via UART messages, such as:
 
-'''
+```
 --- CPU load is 46% ---
 Seat1 Temperature: 44°C Seat2 Temperature: 34°C
 Seat1 Heating Level: OFF Seat2 Heating Level: OFF
 Seat1 Heater Intensity: OFF Seat2 Heater Intensity: OFF
-'''
+```
 
 ## Simulation Results
 The project includes simulation results using SimSo, a real-time scheduling simulator, to analyze task performance and CPU load. Key metrics include:
